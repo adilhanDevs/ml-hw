@@ -20,7 +20,7 @@
 Склонируйте репозиторий:
 
 ```bash
-git clone <URL_РЕПОЗИТОРИЯ>
+git clone https://github.com/adilhanDevs/ml-hw
 cd ml
 ```
 
